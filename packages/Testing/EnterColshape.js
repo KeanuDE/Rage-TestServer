@@ -8,9 +8,8 @@ mp.events.add("playerEnterColshape",(player,shape) => {
 */
 
 /*
-var hurensohn = mp.colshapes.newRectangle(0,0,1,2);
-
-mp.markers.new(27,new mp.Vector3(0,0,0),1);
+var hurensohn = mp.colshapes.newRectangle(x,y,1,2);
+mp.markers.new(27,new mp.Vector3(x,y,z),1);
 */
 
 
